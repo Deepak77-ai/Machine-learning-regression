@@ -4,12 +4,14 @@ This repository contains hands-on implementations of Simple Linear Regression an
 It is designed to help beginners build a strong foundation in Machine Learning by understanding concepts step-by-step with practical examples.
 
 # 📁 Repository Structure
+```
 📦 Machine-Learning-Regression
  ┣ 📜 6. Simple Linear Regression Python Implementation - 1.ipynb
  ┣ 📜 6. Simple Linear Regression Python Implementation - 2.ipynb
  ┣ 📜 7. Multiple Linear Regression Python Implementation-1.ipynb
  ┣ 📜 Multiple Linear Regression Python Implementation-2.ipynb
  ┗ 📜 README.md
+```
  
 # 📌 Project Overview
 
