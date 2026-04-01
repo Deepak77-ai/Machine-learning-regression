@@ -127,8 +127,4 @@ If you found this project helpful:
 
 If you want next level improvement, I can also:
 
-Turn this into a portfolio-level GitHub project
-Add EDA + real dataset
-Add interview-ready explanations
 
-Just tell me 👍
